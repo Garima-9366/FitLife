@@ -1,2 +1,2 @@
 # FitLife
-Develop a new fitness tracker called FitLife
+Your Companion for a Healthier Tomorrow
